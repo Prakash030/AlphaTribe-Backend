@@ -1,7 +1,7 @@
 # AlphaTribe Backend
 
 **Documentation:**
-    ```bash
+   
     Postman Documentation: https://documenter.getpostman.com/view/30345668/2sAXjSzUS5
 
     Postman Collection : https://web.postman.co/workspace/AlphaTribe~d23caeac-586a-4a8b-8ae6-3b58a8856b29/documentation/30345668-1de7f8c4-21ac-4619-826e-87ad02d4e341?entity=request-a3ccd7ed-0826-4905-8ebb-3fdc9bb26eed
