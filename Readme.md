@@ -52,7 +52,7 @@ This project is a backend service for a community platform where users can discu
     npm run dev
 
 5. **Install Testing Dependencies:**
-    ``bash
+    ```bash
     npm install --save-dev jest
     npm test
 
