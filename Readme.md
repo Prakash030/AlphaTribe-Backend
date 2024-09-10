@@ -34,7 +34,7 @@ This project is a backend service for a community platform where users can discu
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/community-platform-backend.git
+   git clone https://github.com/Prakash030/AlphaTribe-Backend.git
    cd community-platform-backend
 
 2. **Install Dependencies:**
