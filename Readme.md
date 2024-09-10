@@ -35,7 +35,7 @@ This project is a backend service for a community platform where users can discu
 
    ```bash
    git clone https://github.com/Prakash030/AlphaTribe-Backend.git
-   cd community-platform-backend
+   cd AlphaTribe-Backend
 
 2. **Install Dependencies:**
     ```bash
