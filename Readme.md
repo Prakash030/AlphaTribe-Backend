@@ -1,5 +1,13 @@
 # AlphaTribe Backend
 
+## Documentation:
+
+    ```bash
+    Postman Documentation: https://documenter.getpostman.com/view/30345668/2sAXjSzUS5
+    Postman Collection : https://web.postman.co/workspace/AlphaTribe~d23caeac-586a-4a8b-8ae6-3b58a8856b29/documentation/30345668-1de7f8c4-21ac-4619-826e-87ad02d4e341?entity=request-a3ccd7ed-0826-4905-8ebb-3fdc9bb26eed
+    API Endpoints: https://docs.google.com/document/d/1qaTeqZINQpsYaFCATtGqa9nd3KjlUMKElwkGxVavaNk/edit?usp=sharing
+    ```
+
 ## Overview
 
 This project is a backend service for a community platform where users can discuss various stocks in the market. Built using the MERN stack (MongoDB, Express.js, Node.js), it includes features for user authentication, stock post management, comments, likes, and real-time updates.
